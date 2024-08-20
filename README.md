@@ -1,4 +1,4 @@
-# Grupo_13_Taller-Python
+Esto es una prueba para un taller de Python
 ## Tarea
 Este repositorio contiene: 
 - Tarea 1
